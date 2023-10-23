@@ -17,5 +17,8 @@
 #include <sstream>
 #include <thread>
 #include <mutex>
+#include <vector>
+#include <unistd.h>
+#include <getopt.h>
 
 

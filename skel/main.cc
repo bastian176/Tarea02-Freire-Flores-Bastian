@@ -1,11 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <map>
-#include <mutex>
-#include <thread>
-#include <vector>
-#include <unistd.h>
+#include "global.hh"
 
 std::mutex mtx;  // Mutex para controlar el acceso al mapa de histograma
 
